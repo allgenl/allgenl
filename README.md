@@ -1,10 +1,17 @@
 ## Hello, World!<br>I'm Karnaukhov Oleg — Web Developer
 ✉️ E-mail: allgenl@mail.ru
-### Summary:
-I am a specialist in web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success! 
-
----
-### Technology:
+<table width='100%' border='0px'><tr>
+  <td width='50%'>
+    <h3>Summary:</h3>
+I am a specialist in web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success!
+  </td>
+  <td width='50%' align='right'>
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRkNWIxNGUxOTE3NDZiNzNhMzYzMjQxYmZhMmIzZjNlNzA3NDdiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif' height='250px' alt='gif'>
+  </td>
+  </tr>
+</table>
+<hr>
+<h3> Technology:</h3>
 <div>
   <img src='https://www.php.net/images/logos/new-php-logo.svg' alt='PHP' height='50px'>&nbsp&nbsp
   <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg' alt='HTML' height='50px'>&nbsp&nbsp
