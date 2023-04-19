@@ -1,12 +1,13 @@
 ## Hello, World!<br>I'm Karnaukhov Oleg — Web Developer
 ✉️ E-mail: allgenl@mail.ru
 <table width='100%' border='0px'><tr>
-  <td width='50%'>
+  <td width='50%' padding-left='50px'>
     <h3>Summary:</h3>
-I am a specialist in web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success!
+    <p> I am a specialist on web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success!</p><br>
+    <p><b>My goals:</b></p><p>Improve my programming and english skills every day</p>
   </td>
   <td width='50%' align='right'>
-    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRkNWIxNGUxOTE3NDZiNzNhMzYzMjQxYmZhMmIzZjNlNzA3NDdiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif' height='250px' alt='gif'>
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRkNWIxNGUxOTE3NDZiNzNhMzYzMjQxYmZhMmIzZjNlNzA3NDdiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif' height='100%' alt='gif'>
   </td>
   </tr>
 </table>
