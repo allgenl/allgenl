@@ -1,16 +1,16 @@
 ## Hello, World!<br>I'm Karnaukhov Oleg — Web Developer
 ✉️ E-mail: allgenl@mail.ru
-<table width='100%' border='0px'><tr>
-  <td width='50%' padding-left='50px'>
+
+<div style='width=25%'>
     <h3>Summary:</h3>
     <p> I am a specialist on web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success!</p><br>
-    <p><b>My goals:</b></p><p>Improve my programming and english skills every day</p>
-  </td>
-  <td width='50%' align='right'>
-    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRkNWIxNGUxOTE3NDZiNzNhMzYzMjQxYmZhMmIzZjNlNzA3NDdiOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUA7bdpLxQhsSQdyog/giphy.gif' height='100%' alt='gif'>
-  </td>
-  </tr>
-</table>
+    <b>My goals:</b></p><p>Improve my programming and english skills every day
+  </div>
+  <div>
+    <img src='https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966' height='100px' alt='gif'>
+</div>
+
+
 <hr>
 <h3> Technology:</h3>
 <div>
