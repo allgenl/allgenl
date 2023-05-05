@@ -3,7 +3,7 @@
 
 <div style='width=25%'>
     <h3>Summary:</h3>
-    <p> I am a specialist on web development. At the moment I know PHP and HTML well. And I am starting my study of JavaScript and CSS. Continuous leaarning is the key to success!</p><br>
+    <p> I am a specialist on web development.</p><br>
     <b>My goals:</b></p><p>Improve my programming and english skills every day
   </div>
   <div>
